@@ -1,0 +1,21 @@
+  <!DOCTYPE html>
+<html>
+<body>
+
+    <p id="myParagraph">This is a paragraph.</p>
+    <button id="styleBtn">Click Me</button>
+
+    <script>
+        const btn = document.getElementById('styleBtn');
+        const para = document.getElementById('myParagraph');
+
+        btn.addEventListener('click', () => {
+            para.innerText = "Welcome to JavaScript DOM Manipulation";
+            
+            para.style.color = "blue";
+            para.style.fontSize = "24px";
+        });
+    </script>
+
+</body>
+</html>
