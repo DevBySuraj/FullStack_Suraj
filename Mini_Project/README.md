@@ -5,7 +5,7 @@ talent-link-project/ (The Root Folder)
 │   ├── src/
 │   ├── public/
 │   ├── package.json
-│   └── tailwind.config.js
+│ 
 └── backend/               <- Your entire Spring Boot Project
     ├── src/
     ├── pom.xml

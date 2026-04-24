@@ -1,0 +1,5 @@
+//react 
+jsx.(html ,css javascript) done
+
+
+//back end remainig for the database
