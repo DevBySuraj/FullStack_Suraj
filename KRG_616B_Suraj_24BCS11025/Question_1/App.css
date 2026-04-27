@@ -1,0 +1,27 @@
+.counter {
+  font-size: 16px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color:blue;
+  background: white;
+  border: 2px solid transparent;
+  margin-bottom: 24px;
+  margin-top: 100px;
+
+
+}
+
+body{
+  background-color: white;
+}
+
+
+#count{
+  color: red;
+  background-color: blue;
+  margin-top: 50px;
+  height: 100px;
+  width: 100px;
+  margin-left: 500px;
+  text-align: center;
+}
